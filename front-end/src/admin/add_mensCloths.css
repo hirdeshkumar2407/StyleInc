@@ -1,0 +1,71 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-weight: 300;
+  }
+  
+
+  .containerr {
+      background-color: #222831;
+      border-style: inset;
+      border-color:#ffd369;
+    margin: 10% auto;
+    margin-top: 20px;
+    padding: 5px 0;
+    text-align: center;
+width: 800px; 
+font-family: "Source Sans Pro", sans-serif;
+color:#ffd369;
+font-weight: 300;
+
+}
+
+  
+  .containerr h1 {
+    font-size: 40px;
+    font-weight: 200;
+  }
+  
+  .inputtextt {
+    border: 1px solid #EEEEEE;
+    background-color: #393E46;
+    width: 250px;
+    border-radius: 3px;
+    font-family: "Source Sans Pro", sans-serif;
+    padding: 10px 15px;
+    margin: 0 auto 10px auto;
+    display: block;
+    text-align: center;
+    font-size: 18px;
+    color: white;
+    font-weight: 300;
+  }
+  
+  .inputtextt2 {
+    border: 1px solid #EEEEEE;
+    background-color: #393E46;
+    width: 400px;
+    border-radius: 3px;
+    font-family: "Source Sans Pro", sans-serif;
+    padding: 10px 15px;
+    margin: 0 auto 10px auto;
+    display: block;
+    text-align: center;
+    font-size: 18px;
+    color: white;
+    font-weight: 300;
+  }
+  
+  .sumbitbutton {
+    appearance: none;
+    outline: 0;
+    background-color: #ffd369;
+    border: 0;
+    padding: 10px 15px;
+    color:  #222831;
+    border-radius: 3px;
+    width: 250px;
+    font-size: 18px;
+  }
+  

@@ -1,0 +1,9 @@
+.login,
+.image {
+	min-height: 110vh;
+}
+.bg-image {
+	background-image: url('../images/adminpage.jpg');
+	background-size: 100%;
+	background-position: left;
+}
