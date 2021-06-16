@@ -26,9 +26,9 @@ This was our final group project for Web-Technologies. We made basic Online Clot
 3. Admin can Add, Update, Delete Women Clothes.
 4. Admin can Retrive a list of Women Clothes.
 5. Admin can Retrive Order list.
-6. Admin can View and Delete an Order list.
-7. Admin can Delete User list.
-8. Admin can Retrive a User Lisr.
+6. Admin can View and Delete an Orders.
+7. Admin can Delete Users.
+8. Admin can Retrieve a User List.
 
 
 ### Customer End
@@ -38,6 +38,7 @@ This was our final group project for Web-Technologies. We made basic Online Clot
 4. Customer can add a item from cart for Women Clothes.
 5. Customer can remove a item from cart for Women Clothes.
 6. Customer view his order details history
+7. Cutomer can update his profile.
 
 ## BackEnd packages
 1. multer - middleware that handle the images file in our Men Clothes and Women Clothes Controller 
