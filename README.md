@@ -57,5 +57,5 @@ This was our final group project for Web-Technologies. We made basic Online Clot
 3. react router dom - is used for dynamic routing the web pages.
 4. react redux - it manages state and state transformations ih React
 5. redux consts action reducer - A reducer is a function that determines changes to an application's state. Redux relies heavily on reducer functions that take the previous state and an action in order to execute the next state.
-6. thrunk - is middleware that allows you to return functions, rather than just actions, within Redux
+6. thunk - is middleware that allows you to return functions, rather than just actions, within Redux
 
